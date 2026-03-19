@@ -33,7 +33,10 @@ Follow these steps to get the Magic Window running immediately:
 2. **Connect the Hardware:** Plug in your Kinect v2 via the USB adapter. Check to make sure the sensor's power indicator lights up.
 3. **Position the Camera:** Mount the Kinect dead center on top of your monitor, matching the setup in this reference photo:
    
-   *[Insert Image of Kinect v2 mounted on top of your monitor]*
+| Angle | Example |
+| :--- | :--- |
+| Front View | <img src="Example%20Images/20260319_133551.jpg" width="400"> |
+| Top View | <img src="Example%20Images/20260319_133603.jpg" width="400"> |
 
 4. **Initialize Tracking:** Navigate to the `Kinect Tracker` folder and launch `Kinect Tracker.exe`. Wait a moment until the console successfully displays your head's real-time X, Y, and Z coordinates.
 5. **Launch the Window:** Open the `Unity Builds` folder and run any of the `Room Window Kinect v6.2.exe` files. Step back, and the perspective will shift!
