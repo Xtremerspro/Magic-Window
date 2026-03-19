@@ -5,6 +5,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 > This is the magic window, it tracks your head with a Kinect v2 and updates the perspective of the screen in real time.
+> 
+> <img src="Example%20Images/animation.gif" width="400"> 
 
 ## Features
 
