@@ -33,7 +33,7 @@ Follow these steps to get the Magic Window running immediately:
 
 1. **Install the Drivers:** Download and install the [Kinect for Windows Runtime 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44559) (or the full SDK if you prefer).
 2. **Connect the Hardware:** Plug in your Kinect v2 via the USB adapter. Check to make sure the sensor's power indicator lights up.
-3. **Position the Camera:** Mount the Kinect dead center on top of your monitor, matching the setup in the reference photos:
+3. **Position the Camera:** Mount the Kinect a bit to the left on top of your monitor, matching the setup in the reference photos:
    
 | Angle | Example |
 | :--- | :--- |
